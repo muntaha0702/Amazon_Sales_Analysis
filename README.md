@@ -1,5 +1,3 @@
-# MitronBank_CreditCard_Demographics_Analysis
-
 # Analyzing Amazon Sales Data Project
 
 
@@ -15,7 +13,7 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ② Data Cleaning and Data Preprocessing [link]((https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)](https://github.com/muntaha0702/Amazon_Sales_Analysis))
 
-③ Clean Data [Link]([https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Clean_Amazon_Sales_data.csv](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Clean_Amazon_Sales_data.csv))
+③ Clean Data [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Clean_Amazon_Sales_data.csv)
 
 ④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link]([https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.docx](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.docx))
 
@@ -26,10 +24,6 @@ Sales management has gained importance to meer increasing competition and the ne
 ⑦ Amazon Sales Data Insights (PDF File) [Link]([https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf))
 
 ⑧ Amazon Sales Data Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20Data%20Report.pdf)
-
-## Mock-up Dashboard
-
-![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/bab2ff45-2f41-4440-aca2-81a6b40f8170)
 
 ## Dashboard
 

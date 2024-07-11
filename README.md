@@ -34,7 +34,7 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ## Data Model
 
-![Screenshot 2024-01-30 230920](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/22d617e4-c9c6-40a3-a0cd-3074bb34ba8d)
+![Screenshot 2024-01-30 230920](![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/5282a215-7009-4c65-a6ea-d0318bb394fa)
 
 ## Insights and Recommendation:
 ![Amazon Sales Data Insights_page-0001](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/426355f4-b9e0-4f14-b6eb-c7bbe2e1129b)

@@ -21,9 +21,8 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
 
-⑦ Amazon Sales Data Insights (PDF File) [Link]([https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf))
+⑦ Amazon Sales Data Insights (PDF File) [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20Data%20Insights.pdf)
 
-⑧ Amazon Sales Data Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20Data%20Report.pdf)
 
 ## Dashboard
 

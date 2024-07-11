@@ -9,15 +9,15 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ## Table of Contents
 
-① Raw Dataset [Link]((https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20data.csv))
+① Raw Dataset [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20data.csv)
 
-② Data Cleaning and Data Preprocessing [link]((https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)](https://github.com/muntaha0702/Amazon_Sales_Analysis))
+② Data Cleaning and Data Preprocessing [link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)
 
 ③ Clean Data [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Clean_Amazon_Sales_data.csv)
 
-④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link]([https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.docx](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.docx))
+④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.docx)
 
-⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
+⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/muntaha0702/Amazon_Sales_Analysis/blob/main/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
 
 ⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
 

@@ -4,8 +4,6 @@
 ## Problem Statement:
 Sales management has gained importance to meer increasing competition and the need for improvement methods of distribution to reduce cost to increase profits. Sales management today is the most important function in a commercial and business enterprices.
 
-## Project detail below:
-[Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Project%201_Analyzing%20Amazon%20Sales%20data.pdf)
 
 ## Table of Contents
 

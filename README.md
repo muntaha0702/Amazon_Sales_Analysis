@@ -24,15 +24,15 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ## Dashboard
 
-![Screenshot 2024-03-13 054440](![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/b683761c-d230-471a-a911-cd1c842a28b7)
+![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/b683761c-d230-471a-a911-cd1c842a28b7)
 
-![Screenshot 2024-01-30 201535](![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/d845da39-1fc7-48f3-b430-5654ab18c965)
+![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/d845da39-1fc7-48f3-b430-5654ab18c965)
 
-![Screenshot 2024-01-30 201559](![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/85a12a66-068f-4688-815e-e002c55e5af0)
+![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/85a12a66-068f-4688-815e-e002c55e5af0)
 
 ## Data Model
 
-![Screenshot 2024-01-30 230920](![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/5282a215-7009-4c65-a6ea-d0318bb394fa)
+![image](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/5282a215-7009-4c65-a6ea-d0318bb394fa)
 
 ## Insights and Recommendation:
 ![Amazon Sales Data Insights-1](https://github.com/muntaha0702/Amazon_Sales_Analysis/assets/128592482/70a8b838-558c-4e3e-964a-3f6fcdcc95a1)
